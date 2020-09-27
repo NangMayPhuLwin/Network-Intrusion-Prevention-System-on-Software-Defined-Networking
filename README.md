@@ -3,3 +3,6 @@ My research concentrates on hybrid NIPS on Software-Defined Networking architect
 Ryu is used as the centralized SDN controller.
 Mininet is used for the emulated SDN Network.
 Snort is used as signature-based NIPS on SDN for packet-based detection and Artificial Neural Network in used for anomaly-based detection of the flow table entries.
+Python is used for my entire system.
+
+If you interest in my research or want to ask more details, you can contact me for more information. email:
